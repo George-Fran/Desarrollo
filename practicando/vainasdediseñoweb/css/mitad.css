@@ -1,0 +1,15 @@
+.contenedor{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.caja{
+    margin: 15px;
+}
+.caja img{
+    width: 200px;
+}
